@@ -55,7 +55,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@electron/asar": "^3.3.1",
+    "@electron/asar": "github:semireg/asar#9190ec0751a543a60231de29d3d177772679a14d",
     "@malept/cross-spawn-promise": "^2.0.0",
     "debug": "^4.3.1",
     "dir-compare": "^4.2.0",
